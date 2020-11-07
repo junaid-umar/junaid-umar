@@ -57,7 +57,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/junaidumar/
-[twitter]: https://twitter.com/IAmSaadAM
+[twitter]: https://twitter.com/junaid_umarr
 
 
 [ezyedu]: https://play.google.com/store/apps/details?id=com.ezyedu.student
