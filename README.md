@@ -15,36 +15,8 @@
 
 <br/>
 
-### Languages and Tools
 
-[<img align="left" alt="iOS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Swift" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Javascript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="AWS Cloud" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" style="max-width:100%;" />][linkedin]
-
-[<img align="left" alt="Bash" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" />][linkedin]
-
-<br/>
-<br/>
-<br/>
-
-
-## iOS Portfolio Apps
+## Android Portfolio Apps
 
 [<img align="left" alt="Ezy Edu" width="60px" src="https://static.wixstatic.com/media/f55522_8a30d1b5599142fe9cc13b4f58f6dfbe~mv2.png/v1/fill/w_56,h_53,al_c,q_85,usm_0.66_1.00_0.01/logo%20baru.webp" style="max-width:100%;" />][ezyedu]
 
