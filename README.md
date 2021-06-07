@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Junaid !
 
-## I'm a Veteran, Android Developer📱, Java, Kotlin Dart!
+## I'm a Android Developer📱, Java, Kotlin Dart!
 - Currently working Part-time as an Android Developer at Telocure
 - Mainly worked for startups in my  Career of approx 5 years
 - Learning Kotlin 
