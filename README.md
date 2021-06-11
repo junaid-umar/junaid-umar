@@ -4,7 +4,6 @@
 ## I'm a Android Developer📱, Java, Kotlin Dart!
 - Currently working as an Android Developer at Telocure
 - Mainly worked for startups in my  Career of approx 5 years
-- Learning Kotlin 
 - Looking for my next role in Android, Worldwide 🌍
 
 ### Connect with me:
