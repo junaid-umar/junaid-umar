@@ -12,6 +12,9 @@
 
 [<img align="left" alt="Junaid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;" />][twitter]
 
+[<img align="left" alt="Junaid | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" style="max-width:100%;" />][Stackoverflow]
+
+
 <br/>
 
 
@@ -22,13 +25,14 @@
 [<img align="left" alt="EzyEdu Biz" width="60px" src="https://play-lh.googleusercontent.com/D_A03LhnqpAKZwn0P9oUdglTvzAo8o__jjWRtpYkxLYO_8FfsiURrgQZgBT_Ak7wYyk=s180-rw" style="max-width:100%;" />][ezyedu-biz]
 
 
-https://stackoverflow.com/users/4468665/john
+
 
 
 
 
 
 [linkedin]: https://www.linkedin.com/in/junaidumar/
+[Stackoverflow]: https://stackoverflow.com/users/4468665/john
 [twitter]: https://twitter.com/junaid_umarr
 
 
