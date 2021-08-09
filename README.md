@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Junaid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;" />][twitter]
 
-[<img align="left" alt="Junaid | Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" style="max-width:100%;" />][Stackoverflow]
+[<img align="left" alt="Junaid | Stackoverflow" width="22px" src="https://uploads-ssl.webflow.com/5ed7f008a2fd8a6aa4e61fc9/5f0db2faec4c585457c547f1_so-logo.svg" style="max-width:100%;" />][Stackoverflow]
 
 
 <br/>
